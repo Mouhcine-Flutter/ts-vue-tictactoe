@@ -1,5 +1,6 @@
 # Nuxt - TicTacToe
-
+[![MIT License][license-shield]][https://github.com/Mouhcine-Flutter/ts-vue-tictactoe/blob/master/LICENSE]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/mouhcine-sennaoui-35b6411b0/]
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
