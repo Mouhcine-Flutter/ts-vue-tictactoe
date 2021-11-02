@@ -1,6 +1,6 @@
 # Nuxt - TicTacToe  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 
-<a href="https://github.com/Mouhcine-Flutter/ts-vue-tictactoe/blob/master/LICENSE"><img src="https://badgen.net/badge/license/MIT/blue"></a><a href="https://www.linkedin.com/in/mouhcine-sennaoui-35b6411b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the- badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Mouhcine-Flutter/ts-vue-tictactoe/blob/master/LICENSE"><img src="https://badgen.net/badge/license/MIT/blue"></a><a href="https://www.linkedin.com/in/mouhcine-sennaoui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the- badge&logo=linkedin&logoColor=white"></a>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
