@@ -1,0 +1,8 @@
+{
+  "Board": {
+    "description": "Auto imported from components/Board.vue"
+  },
+  "Cell": {
+    "description": "Auto imported from components/Cell.vue"
+  }
+}
